@@ -4,12 +4,12 @@ privacy-policy
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
-<title>Gizlilik Politikası - MyGame</title>
+<title>Gizlilik Politikası - NEON DRIFT</title>
 </head>
 <body>
 <h1>Gizlilik Politikası</h1>
 <p><strong>NEON DRIFT – com.sinan.mygame</strong></p>
-<p>Bu uygulama (“MyGame”) herhangi bir kişisel veri toplamaz, saklamaz veya üçüncü taraflarla paylaşmaz.</p>
+<p>Bu uygulama (“NEON DRIFT”) herhangi bir kişisel veri toplamaz, saklamaz veya üçüncü taraflarla paylaşmaz.</p>
 
 <h2>Toplanan Veri</h2>
 <p>Hiçbir kişisel veri toplanmaz.</p>
